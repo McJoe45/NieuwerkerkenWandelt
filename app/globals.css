@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS custom properties — mirrored from tailwind.config.ts for Leaflet etc. */
+:root {
+  --ink:        #2c2416;
+  --ink-light:  #5c5040;
+  --moss:       #6b7c5a;
+  --moss-light: #8fa07a;
+  --earth:      #a08060;
+  --cream:      #f9f5ee;
+  --cream-dark: #f0e9db;
+  --paper:      #fdfbf7;
+  --sage:       #d4ddc8;
+  --mist:       #e8ede2;
+}
