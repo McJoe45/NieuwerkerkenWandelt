@@ -1,4 +1,3 @@
-// Public homepage — hero + route teaser grid
 export default function HomePage() {
   return (
     <main className="min-h-screen bg-paper">
